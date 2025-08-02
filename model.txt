@@ -1,0 +1,4 @@
+NAME                  ID              SIZE      MODIFIED
+deepseek-r1:1.5b      e0979632db5a    1.1 GB    20 minutes ago
+deepseek-r1:latest    6995872bfe4c    5.2 GB    33 minutes ago
+qwen3:0.6b            7df6b6e09427    522 MB    About an hour ago
